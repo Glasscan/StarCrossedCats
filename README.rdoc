@@ -1,6 +1,8 @@
 https://sleepy-ocean-51507.herokuapp.com/
 == README
 
+"How did we never do a proper readme ?" - Jonathan 2019
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
